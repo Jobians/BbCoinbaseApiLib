@@ -1,5 +1,5 @@
-# BBgamerBot - chat bot
-It is repository for chat bot: [@BBgamerBot](https://t.me/BBgamerBot)
+# BbCoinbaseApiBot - chat bot
+It is repository for chat bot: [@BbCoinbaseApiBot](https://t.me/BbCoinbaseApiBot)
 
 ## What it is?
 This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.
