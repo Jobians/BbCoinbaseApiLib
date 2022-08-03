@@ -2,5 +2,5 @@
   "bb_sync_version":"1.0",
   "name":"BbCoinbaseApiBot",
   "csv_url":null,
-  "git_remote":"git@github.com:Jobians/BbCoinbaseLib.git"
+  "git_remote":"git@github.com:Jobians/BbCoinbaseApiLib.git"
 }
