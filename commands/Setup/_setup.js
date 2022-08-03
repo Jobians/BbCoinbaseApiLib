@@ -17,8 +17,8 @@ CMD*/
 
 // Get your keys in https://www.coinbase.com/settings/api
 
-var PrivateKey = "M0Iwc4SRCK5owapqJuhlyzmP0CnwwYzO"
-var ApiKey = "Zt7AF5bknDURaw1o"
+var PrivateKey = "YOUR PRIVATE KEY"
+var ApiKey = "YOUR API KEY"
 
 Libs.CoinbaseApi.setPrivateKey(PrivateKey);
 Libs.CoinbaseApi.setApiKey(ApiKey);
