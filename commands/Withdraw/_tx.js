@@ -17,12 +17,6 @@ CMD*/
 
 if(!params){return}
 
-Api.answerCallbackQuery({
-  callback_query_id: request.id,
-  text: "ℹ️ Getting transaction info...",
-  show_alert: false // or false - for alert on top
-})
-
 var id = params.split(" ")[0]
 var coin = params.split(" ")[1]
 
